@@ -421,5 +421,6 @@ public class SolarSystem extends Application {
 	//create method for axis of rotations
 	//create method to display both times (rotational and orbital)
 	//create method for mass, or something else
-
+	//
+	//
 }
